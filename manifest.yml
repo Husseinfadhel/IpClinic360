@@ -1,0 +1,5 @@
+---
+applications:
+  - name: IpClinic360
+    random-route: true
+    memory: 128MB
